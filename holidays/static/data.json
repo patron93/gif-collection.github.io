@@ -21,6 +21,18 @@
     },{
       "name": "Крылов Иван",
       "position": "frontend"
+    },{
+      "name": "Тургенев Иван",
+      "position": "manager"
+    },{
+      "name": "Лермонтов Михаил",
+      "position": "manager"
+    },{
+      "name": "Некрасов Николай",
+      "position": "backend"
+    },{
+      "name": "Тютчев Фёдор",
+      "position": "backend"
     }
   ]
 }
