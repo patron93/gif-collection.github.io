@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "name": "Пушкин Александр",
+      "position": "frontend"
+    },{
+      "name": "Достоевский Фёдор",
+      "position": "frontend"
+    },{
+      "name": "Чехов Антон",
+      "position": "backend"
+    },{
+      "name": "Гоголь Николай",
+      "position": "backend"
+    },{
+      "name": "Толстой Лев",
+      "position": "frontend"
+    },{
+      "name": "Горький Максим",
+      "position": "frontend"
+    },{
+      "name": "Крылов Иван",
+      "position": "frontend"
+    }
+  ]
+}
